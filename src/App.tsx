@@ -1,10 +1,8 @@
-import React from 'react';
-import FractalTree from './FractalTree';
-import './App.css';
+import FractalTree from "./FractalTree";
 
 function App() {
   return (
-    <div className="App">
+    <div className="">
       <FractalTree />
     </div>
   );
