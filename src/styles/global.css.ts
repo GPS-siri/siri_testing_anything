@@ -13,9 +13,6 @@ const globalStyles = css`
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-
-    // background-color: #121212;
-    // color: #ffffff;
   }
 
   a {
@@ -28,10 +25,10 @@ const globalStyles = css`
        필요에 따라 주석 처리하거나 수정해서 사용하세요. 
        예시로 남겨둡니다.
     */
-    // max-width: 1280px;
-    /* margin: 0 auto; */
-    /* padding: 2rem; */
-    /* text-align: center; */
+    max-width: 300px !important;
+    margin: 0 auto !important;
+    padding: 2rem !important;
+    text-align: center !important;
   }
 
   @keyframes logo-spin {
