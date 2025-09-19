@@ -1,10 +1,10 @@
-import FractalTree from "./FractalTree";
+import Router from './router';
 
 function App() {
   return (
-    <div className="">
-      <FractalTree />
-    </div>
+    <main>
+      <Router />
+    </main>
   );
 }
 

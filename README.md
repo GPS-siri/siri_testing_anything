@@ -1,7 +1,7 @@
 # siri_testing_anything
 
 - author: gps.siri92
-- react / typescript / tailwind(css)
+- react / typescript / Emotion(css)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
